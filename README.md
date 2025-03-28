@@ -1,4 +1,4 @@
-<h1 align="center"><marquee>Hi 👋, I'm a Student</marquee></h1>
+<h1 align="center">Hi 👋, let's connect</h1>
 <h3 align="center">Learning and Sharing about my Programming Journey.<br>
 Exploring new Amazing Ideas in Tech Field.</h3>
 
