@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, let's connect</h1>
-<ul style="list-style-type:disc;"><li><h3 align="Left">Learning and Sharing about my Programming Journey.</h3></li>
-<li><h3>Exploring new Amazing Ideas in Tech Field.</h3></li>
+<ul style="list-style-type:disc;"><li><h3 align="Left">⏳Learning and Sharing about my Programming Journey.</h3></li>
+<li><h3>🌍Exploring new Amazing Ideas in Tech Field.</h3></li>
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashank164&label=Profile%20views&color=0e75b6&style=flat" alt="shashank164" ></p>
